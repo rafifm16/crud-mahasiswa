@@ -1,7 +1,4 @@
 <?php
-/**
- * Database.php - Kelas koneksi database menggunakan MySQLi OOP
- */
 class Database {
     private string $host     = 'localhost';
     private string $username = 'root';

@@ -292,7 +292,7 @@ $result = $mahasiswa->getAll();
             <div class="form-grid" style="grid-template-columns:1fr 1fr;">
               <div class="form-group">
                 <label>NIM *</label>
-                <input type="text" name="nim" placeholder="2021001" maxlength="20" required
+                <input type="text" name="nim" placeholder="2001001" maxlength="20" required
                        value="<?= htmlspecialchars($editData['nim'] ?? '') ?>">
               </div>
               <div class="form-group">

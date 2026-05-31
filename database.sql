@@ -17,8 +17,8 @@ CREATE TABLE IF NOT EXISTS mahasiswa (
 
 -- Data contoh
 INSERT INTO mahasiswa (nim, nama, jurusan, angkatan, ipk) VALUES
-('2021001', 'Budi Santoso',    'Teknik Informatika', '2021', 3.75),
-('2021002', 'Siti Rahayu',     'Sistem Informasi',   '2021', 3.60),
-('2022001', 'Ahmad Fauzi',     'Teknik Informatika', '2022', 3.45),
-('2022002', 'Dewi Lestari',    'Manajemen Informatika','2022', 3.80),
-('2023001', 'Rizky Pratama',   'Teknik Informatika', '2023', 3.55);
+('2001001', 'Rafi',    'Teknik Informatika', '2001', 3.90),
+('2002002', 'Fadhil',     'Manajemen Informatika',   '2002', 3.80),
+('2003001', 'Mubarok',     'Teknik Komputer', '2003', 3.45),
+('2004002', 'Dimas',    'Sistem Informasi','2004', 3.60),
+('2005001', 'Imam',   'Cyber Security', '2005', 3.54);
